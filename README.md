@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maheli-vitorino
-- 👀 I’m interested in software development 
+- 👀 I’m and aspiring software developer 
 - 🌱 I’m currently learning Systems Development and Data Analysys
 - 💞️ I’m looking to collaborate on fullstack development
 - 📫 How to reach me https://www.linkedin.com/in/mahelivitorino
